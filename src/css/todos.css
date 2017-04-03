@@ -66,6 +66,7 @@ input:focus {
 
 .fa-pencil-square-o {
     float: right;
+    cursor: pointer;
 }
 
 span {
